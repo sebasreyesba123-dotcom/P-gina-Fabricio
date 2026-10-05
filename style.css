@@ -1,0 +1,16 @@
+.fondoPantalla{
+    background-image: url("Black&White\ Fabricio.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1000px;
+    
+}
+
+.estiloTexto{
+    color: white;
+    font-family: 'Gabriela', sans-serif;
+    text-align: center;
+    padding-top: 50%;
+    font-size: 2em;
+}
