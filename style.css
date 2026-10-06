@@ -14,3 +14,21 @@
     padding-top: 50%;
     font-size: 2em;
 }
+
+.boton{
+    color: red;
+    border: 2px solid red;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    top: 100px;
+}
+
+.contenedor-flex {
+    display: flex;
+    justify-content: center; /* Lo centra horizontalmente */
+    align-items: center;     /* Lo centra verticalmente (opcional) */
+}
